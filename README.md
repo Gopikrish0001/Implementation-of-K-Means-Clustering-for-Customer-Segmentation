@@ -76,24 +76,31 @@ plt.show()
 ## Output:
 
 1.DATA.HEAD():
+
 ![image](https://github.com/user-attachments/assets/baf06b97-8a6b-43e7-af08-b0a2a3bc095a)
 
 2.DATA.INFO():
+
 ![image](https://github.com/user-attachments/assets/d56e550e-9cd0-41c2-aa08-aa9af544947c)
 
 3.DATA.INSULL().SUM():
+
 ![image](https://github.com/user-attachments/assets/d0d1ba31-7e9c-4345-ab76-1bd8f4dd54fe)
 
 4.POLT.USING ELBOW METHOD:
+
 ![image](https://github.com/user-attachments/assets/1599201c-6b97-4b80-a4ea-6ef931a30e63)
 
 5.K_MEANS CLUSTREING:
+
 ![image](https://github.com/user-attachments/assets/c54f951f-c7d9-4d71-8cb4-354ab9f2abd0)
 
 6.Y_PRED ARRAY:
+
 ![image](https://github.com/user-attachments/assets/457a6942-14d1-43ae-944e-ea2572faea8c)
 
 7.CUSTOMER SEGMENT:
+
 ![image](https://github.com/user-attachments/assets/f9cc1fa6-5e01-4de4-aaa3-6ae9f1d719fa)
 
 
